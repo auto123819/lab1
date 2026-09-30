@@ -31,7 +31,7 @@ Meow: https://scratch.mit.edu/projects/1385765345
 
 ## Part B · Your own project
 
-Project: PASTE-YOUR-PROJECT-LINK-HERE
+Project: https://scratch.mit.edu/projects/1385773019
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
