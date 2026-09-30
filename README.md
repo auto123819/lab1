@@ -35,4 +35,4 @@ Project: https://scratch.mit.edu/projects/1385773019
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
-(write here)
+When the users click to the space button the cat starts to say meow, a counter starts to show the numbers of meow. When they press 0 the counter set to 0.
