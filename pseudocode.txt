@@ -6,10 +6,11 @@ Write an algorithm for ONE of these, as numbered steps, the way we wrote the pho
 Rules: at least 6 numbered lines; use at least one "if" and one loop ("go back to line N", "repeat" or "while").
 Replace the example below with your own.
 
-1  Pick up the first paper
-2  Remember its number as "largest so far"
-3  If there are no papers left, go to line 7
-4  Pick up the next paper
-5  If its number is bigger than "largest so far", remember it as "largest so far"
-6  Go back to line 3
-7  Announce "largest so far"
+1  Set the lower bound to 1 and the top bound to 100
+2  Calculate the average middle of the number between the lower and the top number
+3  Ask that is it the middle number 
+4  if the friend say "Yes", stop.
+5  else ask that is it bigger than the middle number
+6  If the friend say "Yes", add +1 to the middle number and set it to lower number instead of the middle number
+7  If the friend say "No", add -1 to the middle number and set it to top number instead of the middle number
+8  Go back to line 2
