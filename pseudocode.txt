@@ -11,6 +11,6 @@ Replace the example below with your own.
 3  Ask that is it the middle number 
 4  if the friend say "Yes", stop.
 5  else ask that is it bigger than the middle number
-6  If the friend say "Yes", add +1 to the middle number and set it to lower number instead of the middle number
-7  If the friend say "No", add -1 to the middle number and set it to top number instead of the middle number
+6  if the friend say "Yes", add +1 to the middle number and set it to lower number instead of the middle number
+7  if the friend say "No", add -1 to the middle number and set it to top number instead of the middle number
 8  Go back to line 2
